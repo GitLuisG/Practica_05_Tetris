@@ -6,7 +6,7 @@
             <img src="https://avatars0.githubusercontent.com/u/46802580?s=400&u=c82b978b0efc4d93d75bee163fe44c171a779bd9&v=4">
         </a>
          <a href="#" target="_blank">
-            <img width="320" height="200" src="https://avatars0.githubusercontent.com/u/46792605?s=400&v=4">
+            <img width="247" height="247" src="https://avatars0.githubusercontent.com/u/46792605?s=400&v=4">
         </a>
     </p>
     <br>
