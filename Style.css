@@ -1,0 +1,18 @@
+.img{
+    background-image: url("main.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+canvas{
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+}
+.Score{
+    margin-left: 30%;
+    margin-right: auto;
+    margin-top: 4%;
+    margin-bottom: auto;
+}
