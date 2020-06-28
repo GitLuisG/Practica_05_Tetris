@@ -27,7 +27,8 @@
 - Reinicio para volver a jugar.
 - Muestra un mensaje de quien perdio.
 
-![Demostracion](Img.gif)
+![Demostracion](img.gif)
+
 ## Controles
 Z = Nueva partida
 P = Pausa
