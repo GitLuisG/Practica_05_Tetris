@@ -17,7 +17,7 @@
     </div>
     <div>
         <p align="center">
-            | <a href="#" target="_blank">JavaScript</a> |
+            | <a href="#" target="_blank">JavaScript</a> | <a href="#" target="_blank">TypeScript</a> |
         </p>
     </div>
 </div>
